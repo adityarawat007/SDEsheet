@@ -5,14 +5,15 @@ int main(){
 
     
     for(int i = 1;i <= 5;i++){
-        //here we just have to print j
-        //because no of columns = rows 
+        //here we just have to print i
+        // because we are printing no of rows in each column        
         for (int j = 1; j <= i; j++)
         {
-            cout<<j;
+            cout<<i;
         }
 
         cout<<""<<endl;
     }
+
     return 0;
 }
