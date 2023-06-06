@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-// this will print Lower * triangle
+// this will print Lower counting triangle
 
 int main () {
     for(int i=1;i<=5;i++){
